@@ -10,6 +10,8 @@ Abbreviation: LDS
 
 Total Supply: 3.8 Billion LDS
 
+ChainID: 495
+
 Chain Type: Fully independent EVM Chain
 
 Network Access
